@@ -13,3 +13,6 @@ hs_err_pid*
 /ThreadDemo/.idea
 /ThreadDemo/out
 /ThreadDemo/*.iml
+/IO/.idea
+/IO/out
+/IO/IO.iml
